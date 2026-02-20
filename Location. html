@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+0<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Genres of Geography</title>
+    <title>Location | The Genres of Geography</title>
 
     <style>
         body {
@@ -61,13 +61,13 @@
 <body>
 
 <header>
-    <h1>The Five Themes of Geography</h1>
-    <p>SHS Learning Website</p>
+    <h1>Location</h1>
+    <p>SHS Geography Learning</p>
 </header>
 
 <nav>
-    <a href="#">Home</a>
-    <a href="#">Location</a>
+    <a href="index.html">Home</a>
+    <a href="location.html">Location</a>
     <a href="#">Place</a>
     <a href="#">Human-Environment</a>
     <a href="#">Movement</a>
@@ -77,27 +77,29 @@
 <div class="container">
 
     <div class="card">
-        <h2>Welcome</h2>
+        <h2>What is Location?</h2>
         <p>
-            This website explains the main genres (themes) of geography.
-            It is designed to help SHS students understand geographic concepts
-            easily with notes and examples.
+            Location explains where a place is found on Earth. It helps us identify
+            the exact position of a place using geographic tools.
         </p>
     </div>
 
     <div class="card">
-        <h2>Location</h2>
+        <h2>Types of Location</h2>
         <p>
-            Location explains where a place is found on Earth.
-            It can be described using latitude and longitude or by using nearby landmarks.
+            There are two main types of location:
+            <ul>
+                <li><strong>Absolute Location:</strong> Uses latitude and longitude to pinpoint a place.</li>
+                <li><strong>Relative Location:</strong> Describes a place based on its surroundings or nearby landmarks.</li>
+            </ul>
         </p>
     </div>
 
     <div class="card">
-        <h2>Place</h2>
+        <h2>Example</h2>
         <p>
-            Place describes the physical and human characteristics of an area such as climate,
-            vegetation, population, and culture.
+            For example, Accra’s absolute location is approximately 5.6037° N, 0.1870° W, 
+            while its relative location is along the Gulf of Guinea, east of Tema.
         </p>
     </div>
 
@@ -108,35 +110,4 @@
 </footer>
 
 </body>
-</html>style.css￼Enter</h2>
-        <p>
-            This website explains the main genres (themes) of geography.
-            It is designed to help SHS students understand geographic concepts
-            easily with notes and examples.
-        </p>
-    </div>
-
-    <div class="card">
-        <h2>Location</h2>
-        <p>
-            Location explains where a place is found on Earth.
-            It can be described using latitude and longitude or by using nearby landmarks.
-        </p>
-    </div>
-
-    <div class="card">
-        <h2>Place</h2>
-        <p>
-            Place describes the physical and human characteristics of an area such as climate,
-            vegetation, population, and culture.
-        </p>
-    </div>
-
-</div>
-
-<footer>
-    <p>Created for Geography Studies | © 2026</p>
-</footer>
-
-</body>
-</html>style.css￼Enter
+</html>￼Enter
