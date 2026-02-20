@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Genres of Geography</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+      color: #333;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #333;
+    }
+    nav a {
+      color: white;
+      padding: 14px 20px;
+      display: inline-block;
+      text-decoration: none;
+    }
+    nav a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+    main {
+      padding: 20px;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    h2 {
+      color: #4CAF50;
+    }
+    .quiz {
+      background-color: #e0f7fa;
+      padding: 10px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>The Genres of Geography</h1>
+  <p>Learning notes, revision material, and quizzes based on Ghana Education Service</p>
+</header>
+
+<nav>
+  <a href="#notes">Notes</a>
+  <a href="#quizzes">Quizzes</a>
+  <a href="#about">About</a>
+</nav>
+
+<main>
+  <section id="notes">
+    <h2>Geography Notes</h2>
+    <p>Here you can add your geography notes. For example:</p>
+    <ul>
+      <li>Physical Geography: Mountains, Rivers, Climate</li>
+      <li>Human Geography: Population, Culture, Economy</li>
+      <li>Environmental Geography: Conservation, Climate Change</li>
+    </ul>
+  </section>
+
+  <section id="quizzes">
+    <h2>Quizzes & Tests</h2>
+    <div class="quiz">
+      <p><strong>Question 1:</strong> What is the longest river in Ghana?</p>
+      <p>Answer: __________</p>
+    </div>
+    <div class="quiz">
+      <p><strong>Question 2:</strong> Name the main types of climates in Ghana.</p>
+      <p>Answer: __________</p>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>About This Site</h2>
+    <p>This site is designed for students to learn geography notes, revise, and practice quizzes based on Ghana Education Service syllabus.</p>
+  </section>
+</main>
+
+</body>
+</html>
